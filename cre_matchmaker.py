@@ -14,7 +14,7 @@ def get_investor_profile():
     investor_profile = {
         'investment_type': input('Enter risk appetite (core, core-plus, opportunistic, value-add): '),
         'size': float(input('Enter min asset size: ')),
-        'min_cap': float(input('Enter min cap rate (0.00 - 1.00): ')),
+        'min_cap': float(input('Enter min cap rate (0.00 - 0.20): ')),
     }
     return investor_profile
 
