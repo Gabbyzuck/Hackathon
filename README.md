@@ -16,3 +16,9 @@ Changing the main to be master
     Enter min asset size:
     Enter min cap rate (0.00 - 1.00):
 ```
+
+### add the third feature called matching investor profile to potential investments and saving to json file
+
+```sh
+    cat cre_matchmaker_output.json
+```
