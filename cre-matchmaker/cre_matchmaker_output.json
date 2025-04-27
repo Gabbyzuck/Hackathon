@@ -1,0 +1,22 @@
+[
+    {
+        "name": "LogiPark East",
+        "address": "1010 Logistics Blvd",
+        "city": "Atlanta",
+        "state": "GA",
+        "property_class": "A",
+        "noi": 450000,
+        "sale_price": 12000000,
+        "square_feet": 150000
+    },
+    {
+        "name": "Portside Logistics Hub",
+        "address": "88 Harbor Ave",
+        "city": "Oakland",
+        "state": "CA",
+        "property_class": "A",
+        "noi": 520000,
+        "sale_price": 14000000,
+        "square_feet": 180000
+    }
+]
